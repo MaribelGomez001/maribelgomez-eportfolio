@@ -1,0 +1,38 @@
+	h1{
+		font-family: serif;
+		font-style: normal;
+		font-size: 50px;
+		margin-top: 80px;
+		margin-bottom: 30px;
+	}
+	h2{
+		float: unset;
+		background-color: black;
+		width:	260px;
+		font-family:sans-serif;
+		font-style:	normal;
+		font-size: 15px;
+		margin:	10px;
+		padding: 10px;
+		spacing: 20px;
+	}
+	a{
+		color:	white;
+	}
+	h3{
+		font-family: serif;
+		font-style: normal;
+		font-size: 25px;
+		margin: 10px;
+		padding-top: 10px;
+	}
+	p {
+		font-family: sans-serif;
+		font-style: normal;
+		font-size: 22px;
+		border-style: solid;
+		boarder-color: black;
+		boarder-width: 10px;
+		margin-top: 30px;
+		padding: 1px;
+	}
